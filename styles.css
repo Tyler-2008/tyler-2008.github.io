@@ -1,8 +1,20 @@
-  
-  body{background-color:#0000ff; }
+
+  body{background-color:#000080; }
     p{color:white; }
-    h1{color:#00bb00; }
-    h2{color:#ff00ff; }
+    h1{color:#ff00ff; }
+    h2{color:#dd00ee; }
 	a{color:#ffffff}
 	li{color:#ffffff}
+
+
+.container{
 	
+	width:80%;
+	max-width:900px;
+	min-width:300px;
+	background:#0000ff;
+	margin: 0 auto;
+	padding: 1em;
+	border: 3px solid #000000;
+	
+}
