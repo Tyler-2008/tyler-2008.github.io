@@ -1,5 +1,10 @@
 
-  body{background-color:#000080; }
+  body{
+	  background-color:#000080; 
+	  background-image: url("bg.jpg");
+	  
+	  
+	  }
     p{color:white; }
     h1{color:#ff00ff; }
     h2{color:#dd00ee; }
@@ -38,6 +43,10 @@ section {
 	
 	padding: 1em;
 	
+}
+nav {
+	top:0;
+	position:sticky;
 }
 
 nav ul {
