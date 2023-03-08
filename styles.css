@@ -14,7 +14,28 @@
 	min-width:300px;
 	background:#0000ff;
 	margin: 0 auto;
-	padding: 1em;
 	border: 3px solid #000000;
+	
+}
+
+header {
+	
+	top: 0px;
+	background-color: #0556aa;
+
+}
+
+footer {
+	
+	clear: both;
+	position: relative;
+	bottom:0;
+	background-color:#0556aa;
+	
+}
+
+section {
+	
+	padding: 1em;
 	
 }
