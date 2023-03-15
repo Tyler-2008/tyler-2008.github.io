@@ -2,8 +2,7 @@
   body{
 	  background-color:#000080; 
 	  background-image: url("bg.jpg");
-	  
-	  
+	    
 	  }
     p{color:white; }
     h1{color:#ff00ff; }
@@ -36,6 +35,7 @@ footer {
 	position: relative;
 	bottom:0;
 	background-color:#0556aa;
+	padding:2px;
 	
 }
 
@@ -82,19 +82,19 @@ nav li a:hover {
 }
 
 figure{
-	border: 1px #ccc solid;
+	border: 1px #bcc solid;
 	width:350px;
-	paddng:0px;
+	paddng:2px;
 	float: right;
-	
+	background-color:#bcc;
 }
 
 figcaption{
 	
-	background-color:#cccccc;
-	padding:0px;
+	background-color:#bccccc;
+	padding:2px;
 	font-sty: italic;
 	text-align:center;
-	line-hight: 0px;
+	line-hight: 19px;
 	
 }
