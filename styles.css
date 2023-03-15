@@ -80,3 +80,21 @@ nav li a:hover {
 	background-color: #111;
 	
 }
+
+figure{
+	border: 1px #ccc solid;
+	width:350px;
+	paddng:0px;
+	float: right;
+	
+}
+
+figcaption{
+	
+	background-color:#cccccc;
+	padding:0px;
+	font-sty: italic;
+	text-align:center;
+	line-hight: 0px;
+	
+}
