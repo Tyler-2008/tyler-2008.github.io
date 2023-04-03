@@ -1,5 +1,12 @@
 /* CSS Document */
-.bg-image {
+
+.top-sect {
+	
+	width:100%;
 	background-image: url("/Images/bg-image.jpeg");
+	height: 400px;
+}
+.head-width{
+	width:700px;
 	
 }
