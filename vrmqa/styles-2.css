@@ -8,6 +8,7 @@
 	background-image: url("/Images/bg-image-test.jpeg");
 	height: 257px;
 	background-repeat: no-repeat;
+	align-self: center;
 }
 .head-width{
 	width:700px;
