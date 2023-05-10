@@ -1,11 +1,15 @@
 /* CSS Document */
 
+.bonelab{
 
+	resize:50%;
+	
+}
 
 .top-sect {
 	
 	width:100%;
-	background-image: url("/Images/bg-image-test.jpeg");
+	background-image: url("../Images/bg-image-test.jpeg");
 	height: 257px;
 	background-repeat: no-repeat;
   background-position: center;
